@@ -1,0 +1,51 @@
+
+body{
+  margin: 300px auto;
+}
+
+
+.container{
+  width: 2000px;
+  height: 2000px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 5%;
+  color: white;
+  margin: auto;
+  padding:100px;
+  font-size: 50px;
+
+}
+
+.logo{
+  display: block;
+  margin: 0px auto;
+}
+
+.title{
+  color: lime;
+}
+
+#barra{
+  background-color: lime;
+  padding:  10px;
+}
+
+.Monopattino{
+  display: inline-block;
+}
+
+.barra1{
+  width: 500px;
+  height: 40px;
+  background-color:orange;
+}
+.barra2{
+  width: 1000px;
+  height: 40px;
+  background-color:green;
+}
+.barra3{
+  width: 300px;
+  height: 40px;
+  background-color:red;
+}
